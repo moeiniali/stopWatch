@@ -7,7 +7,7 @@ main {
   justify-content: center;
   align-items: center;
   align-content: center;
-  background-image: url(./images.jpg);
+  background-image: url(/assets/images.jpg);
   background-repeat: no-repeat;
   background-size: cover;
   flex-direction: column;
